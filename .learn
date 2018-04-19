@@ -6,3 +6,4 @@ languages:
   - jQuery
 resources: 
   - 0
+parent_template: git@github.com:learn-co-curriculum/js-jquery-modify-html-readme.git
